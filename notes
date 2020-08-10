@@ -1,0 +1,17 @@
+mojibake - when the characters are transformed and messed up websites.
+utf-8 includes all the international symbols.
+
+    unicode-table.com - to check what characters are included.
+
+meta - tells how to render your webpage.    
+
+i - only slants
+em - emphasizes the text inside the text.
+
+bold vs strong
+bold - makes font folder
+strong - emphasizes the text
+
+Structure  - html
+Styling  - css
+Action - javascript
